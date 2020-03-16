@@ -1,0 +1,8 @@
+In Simulation:
+
+*change the frequency of Atmega32 to 8 MHZ.
+
+In entering the values by keypab you can do the following :
+
+* press "*" if you entered rong number.
+*press "#" to go to next step.
