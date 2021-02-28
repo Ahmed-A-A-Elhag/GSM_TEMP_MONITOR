@@ -1,4 +1,4 @@
-# gsm-temp-monitor
+# GSM_TEMP_MONITOR
 
 ## Objective:
 
