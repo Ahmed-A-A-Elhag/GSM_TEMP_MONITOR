@@ -1,6 +1,6 @@
 # gsm-temp-monitor
 
-Objective:
+##Objective:
 
 To design a system that monitors the temperature of a room and sends SMS in one of three cases:
 The temperature exceeds a certain point specified by the user (set point_high).
